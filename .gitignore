@@ -1,6 +1,3 @@
 .ipynb_checkpoints/
 submissionFile
-data/test_text
-data/test_variants
-data/training_text
-data/training_variants
+data/
